@@ -32,10 +32,12 @@ dev mode will automatically reload the changes done in the server, for good perf
 <br>
 this returns the json format output
 # for better version of the output 
+
 ```bash
 LINK/docs
 ```
 # redoc
+
 ```bash
 LINK/redoc
 ```
