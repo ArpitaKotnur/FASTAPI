@@ -20,4 +20,27 @@ now open it in vs code
 code .
 ```
 all the stuff in main.py
+# step 2
+the content is in main.py we are basically just making a normal application with hello world 
+```bash
+uv run fastapi dev main.py
+```
+two types 
+1. fastapi dev
+2. fastapi run
+dev mode will automatically reload the changes done in the server, for good performance use run
+<br>
+this returns the json format output
+# for better version of the output 
+```bash
+LINK/docs
+```
+# redoc
+```bash
+LINK/redoc
+```
+
+
+
+
 
