@@ -41,7 +41,10 @@ LINK/docs
 ```bash
 LINK/redoc
 ```
-
+# now we are trying to convert list of array to json format 
+make a decorator and return the list of array , making that into different path /api/posts you can give any name uh want /apime/posts anything
+# add html front page 
+in main.py uuh will get to know 
 
 
 
